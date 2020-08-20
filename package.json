@@ -1,7 +1,7 @@
 {
   "name": "react-native-autofill",
   "title": "React Native Autofill",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
