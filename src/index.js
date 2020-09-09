@@ -1,5 +1,10 @@
-import { NativeModules } from 'react-native';
+// import React from 'react';
+// import { requireNativeComponent } from 'react-native';
 
-const { RnAutofill } = NativeModules;
+// const RNAutofillView = (props) => <RNAutofill {...props} />;
 
-export default RnAutofill;
+// const RNAutofill = requireNativeComponent('RNAutofill', RNAutofillView);
+
+import RNAutofill from './Autofill';
+
+export default RNAutofill;
